@@ -313,12 +313,14 @@ We welcome contributions! Please feel free to submit a Pull Request.
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{vahedifar2026shapley,
-  title={Shapley Features for Robust Signal Prediction in Tactile Internet},
-  author={Vahedifar, Mohammad Ali and Arthur and Zhang, Qi},
-  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year={2026},
-  organization={IEEE}
+@misc{vahedifar2025shapleyfeaturesrobustsignal,
+      title={Shapley Features for Robust Signal Prediction in Tactile Internet}, 
+      author={Mohammad Ali Vahedifar and Qi Zhang},
+      year={2025},
+      eprint={2509.21032},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2509.21032}, 
 }
 ```
 
