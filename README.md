@@ -28,15 +28,6 @@ This repository implements a novel two-stage predictive framework for Tactile In
   <img src="https://github.com/Ali-Vahedifar/Gaussian-Process-Shapley-Feature-Value-for-Signal-Prediction/blob/main/SFV.drawio.png" alt="Framework Overview" width="800"/>
 </p>
 
-## 🚀 Features
-
-- ✅ Complete implementation of GP oracle with uncertainty quantification
-- ✅ Shapley Feature Value computation for feature selection
-- ✅ Three neural network architectures: FC, LSTM, and ResNet
-- ✅ Jensen-Shannon Divergence loss for distributional alignment
-- ✅ Support for all 7 datasets from the paper
-- ✅ Comprehensive training and evaluation pipeline
-- ✅ Detailed comments on every line of code
 
 ## 📦 Installation
 
@@ -344,15 +335,14 @@ This research was supported by:
 
 ## 📧 Contact
 
-- Mohammad Ali Vahedifar - av@ece.au.dk
-- Qi Zhang - qz@ece.au.dk
+- Ali Vahedi - av@ece.au.dk
 
 **DIGIT and Department of Electrical and Computer Engineering**  
 Aarhus University, Denmark
 
 ## 🔗 Links
 
-- [Paper](https://arxiv.org/abs/xxxx.xxxxx) (Coming soon)
+- [Paper](https://arxiv.org/abs/2509.21032) 
 - [TOAST Project](https://toast-doctoral-network.eu/)
 - [Aarhus University ECE](https://ece.au.dk/)
 
